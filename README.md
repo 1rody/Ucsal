@@ -1,5 +1,5 @@
 # UCSAL
-Projetos desenvolvidos durante a faculdade - BACHAREL EM ENGENHARIA DE SOFTWARE
+Projetos, listas e atividades desenvolvidos durante a faculdade - BACHAREL EM ENGENHARIA DE SOFTWARE
 ---
 
 Ola mundo!, nesse repositorio eu busco divulgar estudos basicos e meu aprendizado da linguagem java (alem de outras linguagens aprendidas em diciplinas diversas) como POO (progracao orientada a objetos, front-end, e muitas mais)
